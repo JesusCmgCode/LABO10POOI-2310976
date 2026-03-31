@@ -1,2 +1,2 @@
 # LABO10POOI-2310976
-Practica Calificada
+Proyecto Personal Caso
